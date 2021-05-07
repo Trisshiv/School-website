@@ -98,6 +98,7 @@ html {
     position: sticky;
     top: 0;
     z-index: 99999;
+
 }
 
 .p_modal {
@@ -206,4 +207,31 @@ html {
 
 #event {
     background: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+}
+
+#amargin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head span {
+    float: left;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+#contacts h3 {
+    text-shadow: none;
+    color: white;
 }
